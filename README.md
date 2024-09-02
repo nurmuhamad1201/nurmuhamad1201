@@ -35,10 +35,10 @@
     <img src="https://img.shields.io/badge/-Material--UI-0081CB?logo=material-ui&logoColor=white&style=flat" alt="Material-UI" width="150" />
   </a>
   <a href="https://vitejs.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat" alt="Vite" width="150" />
+    <img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat" alt="Vite" width="140" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" alt="Git" width="150" />
+    <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" alt="Git" width="140" />
   </a>
 </p>
 
@@ -48,16 +48,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nurmuhamad-narzulloev-346474319/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" width="150" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" width="110" />
   </a>
   <a href="https://www.instagram.com/nurmuhamad1201" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat" alt="Instagram" width="150" />
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat" alt="Instagram" width="110" />
   </a>
   <a href="https://t.me/nurmuhamad1201" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=flat" alt="Telegram" width="150" />
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=flat" alt="Telegram" width="110" />
   </a>
   <a href="mailto:nurmuhamad1201f@icloud.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat" alt="Email" width="150" />
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat" alt="Email" width="110" />
   </a>
 </p>
 

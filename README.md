@@ -1,11 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi there! 👋 I'm Nurmuhamad</h1>
 
-<!--
-**nurmuhamad1201/nurmuhamad1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🚀 Junior Frontend Developer | Translator | Tech Enthusiast | Content Creator</h3>
+
+ <hr />
+
+<h3 align="center">🛠️ Technologies & Tools</h3>
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+      
+- 🔭  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

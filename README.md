@@ -47,7 +47,7 @@
 
 <hr />
 
-<h3 align="center">🌐 Connect with Me</h3>
+<h3 align="center">🌐 Connect with Me.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nurmuhamad-narzulloev-346474319/" target="_blank">

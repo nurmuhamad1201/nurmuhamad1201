@@ -39,9 +39,13 @@
   <a href="https://mui.com/" target="_blank" style="margin: 0 8px;">
     <img src="https://skillicons.dev/icons?i=materialui" height="60" alt="Material UI" />
   </a>
-  <a href="https://ant.design/" target="_blank" style="margin: 0 8px;">
-    <img src="https://skillicons.dev/icons?i=antdesign" height="60" alt="Ant Design" />
-  </a>
+  
+<a href="https://ant.design/" target="_blank" style="margin: 0 8px;">
+  <img src="https://cdn.simpleicons.org/antdesign/000000" height="60" alt="Ant Design" />
+</a>
+
+
+
   <a href="https://git-scm.com/" target="_blank" style="margin: 0 8px;">
     <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
   </a>

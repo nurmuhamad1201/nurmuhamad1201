@@ -24,9 +24,7 @@
   <a href="https://react.dev/" target="_blank" style="margin: 0 8px;">
     <img src="https://skillicons.dev/icons?i=react" height="60" alt="React" />
   </a>
-  <a href="https://redux.js.org/" target="_blank" style="margin: 0 8px;">
-    <img src="https://skillicons.dev/icons?i=redux" height="60" alt="Redux" />
-  </a>
+ 
   <a href="https://redux-toolkit.js.org/" target="_blank" style="margin: 0 8px;">
     <img src="https://skillicons.dev/icons?i=redux" height="60" alt="Redux Toolkit" />
   </a>

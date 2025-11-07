@@ -84,8 +84,7 @@
 
 <p align="center">
   I'm an 18-year-old Junior Frontend Developer passionate about creating beautiful, functional websites.  
-  Currently studying at Tajik-Russian Slavic University, specializing in translation.  
-  I love coding, translating tech articles, and creating content to inspire others.
+  Currently studying at Tajik-Russian Slavic University, specializing in Applied Informatics.
 </p>
 
 ---

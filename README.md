@@ -83,7 +83,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  I'm an 18-year-old Junior Frontend Developer passionate about creating beautiful, functional websites.  
+  I'm an 19-year-old Junior Frontend Developer passionate about creating beautiful, functional websites.  
   Currently studying at Tajik-Russian Slavic University, specializing in Applied Informatics.
 </p>
 

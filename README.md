@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there! I'm Nurmuhamad</h1>
 
-<h3 align="center">🚀 Junior Frontend Developer | Translator | Tech Enthusiast | Content Creator</h3>
+<h3 align="center">🚀 Frontend Developer | Translator | Tech Enthusiast | Content Creator</h3>
 
 
 <h2 align="center">🛠️ Technologies & Tools</h2>

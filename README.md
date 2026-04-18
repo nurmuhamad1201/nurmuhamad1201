@@ -1,58 +1,78 @@
-<h1 align="center">👋 Hi there! I'm Nurmuhamad</h1>
+<h1 align="center">Hi, I'm Nurmuhamad</h1>
 
-<h3 align="center">🚀 Frontend Developer | Translator | Tech Enthusiast | Content Creator</h3>
+<h3 align="center">Frontend Developer focused on React, JavaScript, and modern web interfaces</h3>
 
-
-<h2 align="center">🛠️ Technologies & Tools</h2>
-
-<p align="center" style="flex-wrap: wrap;">
-  <a href="https://html.com/" target="_blank" style="margin: 0 8px;">
-    <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="margin: 0 8px;">
-    <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS" />
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" style="margin: 0 8px;">
-    <img src="https://skillicons.dev/icons?i=sass" height="60" alt="SASS" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin: 0 8px;">
-    <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" style="margin: 0 8px;">
-    <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" />
-  </a>
-  <a href="https://react.dev/" target="_blank" style="margin: 0 8px;">
-    <img src="https://skillicons.dev/icons?i=react" height="60" alt="React" />
-  </a>
- 
-  <a href="https://redux-toolkit.js.org/" target="_blank" style="margin: 0 8px;">
-    <img src="https://skillicons.dev/icons?i=redux" height="60" alt="Redux Toolkit" />
-  </a>
-  <a href="https://vitejs.dev/" target="_blank" style="margin: 0 8px;">
-    <img src="https://skillicons.dev/icons?i=vite" height="60" alt="Vite" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" style="margin: 0 8px;">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS" />
-  </a>
-  <a href="https://mui.com/" target="_blank" style="margin: 0 8px;">
-    <img src="https://skillicons.dev/icons?i=materialui" height="60" alt="Material UI" />
-  </a>
-  
-<a href="https://ant.design/" target="_blank" style="margin: 0 8px;">
-  <img src="https://cdn.simpleicons.org/antdesign/000000" height="60" alt="Ant Design" />
-</a>
-
-
-
-  <a href="https://git-scm.com/" target="_blank" style="margin: 0 8px;">
-    <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
-  </a>
+<p align="center">
+  I build responsive, clean, and user-friendly frontend applications with a focus on performance and real user experience.
 </p>
-
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">Tech Stack</h2>
+
+<p align="center">
+  <a href="https://html.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" height="56" alt="HTML" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" height="56" alt="CSS" />
+  </a>
+  <a href="https://sass-lang.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=sass" height="56" alt="SASS" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" height="56" alt="JavaScript" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts" height="56" alt="TypeScript" />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" height="56" alt="React" />
+  </a>
+  <a href="https://redux-toolkit.js.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redux" height="56" alt="Redux Toolkit" />
+  </a>
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vite" height="56" alt="Vite" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="56" alt="Tailwind CSS" />
+  </a>
+  <a href="https://mui.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=materialui" height="56" alt="Material UI" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" height="56" alt="Git" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">About Me</h2>
+
+<p align="center">
+  Frontend Developer with practical experience in building modern web interfaces using React, JavaScript, Tailwind CSS, Redux Toolkit, and REST API integration.
+</p>
+
+<p align="center">
+  I enjoy creating responsive layouts, reusable components, and clean UI that feels fast and intuitive.
+</p>
+
+<p align="center">
+  Currently focused on improving frontend architecture, performance optimization, and real-world project quality.
+</p>
+
+---
+
+<h2 align="center">What I Work With</h2>
+
+<p align="center">
+  React • JavaScript • TypeScript • Tailwind CSS • Redux Toolkit • REST API • Vite • Git • Responsive UI
+</p>
+
+---
+
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nurmuhamad1201&show_icons=true&theme=tokyonight" width="450" />
@@ -61,45 +81,27 @@
 
 ---
 
-<h2 align="center">🌐 Connect with Me</h2>
+<h2 align="center">Connect with Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nurmuhamad-narzulloev-346474319/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.instagram.com/nurmuhamad1201" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://t.me/nurmuhamad1201" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:nurmuhamad1201f@icloud.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">Open To</h2>
 
 <p align="center">
-  I'm an 19-year-old Junior Frontend Developer passionate about creating beautiful, functional websites.  
-  Currently studying at Tajik-Russian Slavic University, specializing in Applied Informatics.
+  Frontend opportunities • Remote work • Freelance projects • Collaboration on modern web applications
 </p>
-
----
-
-<h2 align="center">💡 Let's Collaborate!</h2>
-
-<p align="center">
-  Open to exciting opportunities and collaborations.  
-  Reach out via LinkedIn, Telegram, or Email!
-</p>
-
----
-
-<h3 align="center">⭐️ Thanks for stopping by!</h3>
-<p align="center">Feel free to explore my repositories and drop a ⭐️ if you find something useful!</p>
 
 ---
 

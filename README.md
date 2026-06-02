@@ -8,13 +8,21 @@
 
 ---
 
+ 
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nurmuhamad1201&show_icons=true&theme=tokyonight" width="450" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurmuhamad1201&layout=compact&theme=tokyonight" width="350" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=nurmuhamad1201&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    height="170"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurmuhamad1201&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    height="170"
+  />
 </p>
+ 
 
 ---
 

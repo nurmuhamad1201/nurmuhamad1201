@@ -8,25 +8,35 @@
 
 ---
 
+ 
 <h2 align="center">GitHub Stats</h2>
 
-<!-- Option A: Streak Stats -->
+<!-- Top Cards -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurmuhamad1201&theme=tokyonight" width="400" 
-       onerror="this.onerror=null; this.src='https://via.placeholder.com/400x150?text=Streak+Stats+Unavailable+•+Create+Public+Repo+First';" />
+  <a href="#">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=nurmuhamad1201&theme=tokyonight" 
+      width="49%" 
+    />
+  </a>
+
+  <a href="#">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurmuhamad1201&theme=tokyonight" 
+      width="49%" 
+    />
+  </a>
 </p>
 
-<!-- Option B: Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nurmuhamad1201&theme=tokyo-night" width="800"
-       onerror="this.onerror=null; this.src='https://via.placeholder.com/800x200?text=Activity+Graph+Unavailable+•+Needs+Public+Activity';" />
-</p>
+ 
+<!-- <p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nurmuhamad1201&theme=tokyo-night" 
+    width="100%" 
+  />
+</p> -->
+ 
 
-<!-- Option C: Profile Summary Cards -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurmuhamad1201&theme=tokyonight" width="800"
-       onerror="this.onerror=null; this.src='https://via.placeholder.com/800x200?text=Summary+Cards+Unavailable+•+GitHub+API+Limits';" />
-</p>
  
 ---
 

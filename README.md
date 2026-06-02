@@ -8,21 +8,27 @@
 
 ---
 
- 
 <h2 align="center">GitHub Stats</h2>
 
+<!-- Option A: Streak Stats -->
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=nurmuhamad1201&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    height="170"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurmuhamad1201&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    height="170"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurmuhamad1201&theme=tokyonight" width="400" 
+       onerror="this.onerror=null; this.src='https://via.placeholder.com/400x150?text=Streak+Stats+Unavailable+•+Create+Public+Repo+First';" />
 </p>
- 
+
+<!-- Option B: Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nurmuhamad1201&theme=tokyo-night" width="800"
+       onerror="this.onerror=null; this.src='https://via.placeholder.com/800x200?text=Activity+Graph+Unavailable+•+Needs+Public+Activity';" />
+</p>
+
+<!-- Option C: Profile Summary Cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurmuhamad1201&theme=tokyonight" width="800"
+       onerror="this.onerror=null; this.src='https://via.placeholder.com/800x200?text=Summary+Cards+Unavailable+•+GitHub+API+Limits';" />
+</p>
+
+> **Note:** Stats will appear automatically once you have public repositories and activity. These services need data to display.
 
 ---
 
@@ -71,5 +77,6 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nurmuhamad1201&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=nurmuhamad1201&label=Profile%20views&color=0e75b6&style=for-the-badge"
+       onerror="this.onerror=null; this.src='https://via.placeholder.com/150x30?text=Views+Unavailable';" />
 </p>

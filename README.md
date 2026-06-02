@@ -27,9 +27,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurmuhamad1201&theme=tokyonight" width="800"
        onerror="this.onerror=null; this.src='https://via.placeholder.com/800x200?text=Summary+Cards+Unavailable+•+GitHub+API+Limits';" />
 </p>
-
-> **Note:** Stats will appear automatically once you have public repositories and activity. These services need data to display.
-
+ 
 ---
 
 <h2 align="center">Tech Stack</h2>
